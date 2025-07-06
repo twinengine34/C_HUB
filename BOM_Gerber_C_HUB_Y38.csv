@@ -1,0 +1,7 @@
+Component,Description,Qty,Unit Price (USD),Total Price (USD)
+Gerber_C_HUB_Y38,"PCB Prototype (Black, 1.6mm, HASL)",5,$2.00,$10.00
+Gerber_C_HUB_Y38,Economic PCBA - Assemble Top Side,2,$40.85,$40.85
+Shipping,Standard Shipping,1,$13.12,$13.12
+Coupon Discount,-,1,-$9.00,-$9.00
+Total,,,,$55.97
+Final Subtotal,(after coupon applied),,,$46.97
