@@ -13,5 +13,20 @@ Designing the PCB was quite fun and a bit challenging. I went for a two-layer bo
 
 ![Screenshot 2025-07-06 192323](https://github.com/user-attachments/assets/36dd48fd-4cff-47ba-9bec-c72041857613)
 
+
+##  Bill of Materials (BOM)
+
+| Component           | Description                          | Qty | Unit Price (USD) | Total Price (USD) |
+|---------------------|--------------------------------------|-----|------------------|-------------------|
+| Gerber_C_HUB_Y38    | PCB Prototype (Black, 1.6mm, HASL)   | 5   | $2.00            | $10.00            |
+| Gerber_C_HUB_Y38    | Economic PCBA - Assemble Top Side    | 2   | $40.85           | $40.85          |
+| Shipping            | Standard Shipping                    | 1   | $13.12           | $13.12            |
+| Coupon Discount     | -                                    | 1   | -$9.00           | -$9.00            |
+| **Total**           |                                      |     |                  | **$55.97**        |
+| **Final Subtotal**  | (after coupon applied)               |     |                  | **$46.97**        |
+
+
+
+
 ![image](https://github.com/user-attachments/assets/82583704-14c2-4f06-a267-2c5182e1b848)
 
