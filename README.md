@@ -12,3 +12,6 @@ Designing the PCB was quite fun and a bit challenging. I went for a two-layer bo
 
 
 ![Screenshot 2025-07-06 192323](https://github.com/user-attachments/assets/36dd48fd-4cff-47ba-9bec-c72041857613)
+
+![image](https://github.com/user-attachments/assets/82583704-14c2-4f06-a267-2c5182e1b848)
+
