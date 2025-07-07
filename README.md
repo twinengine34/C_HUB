@@ -1,8 +1,7 @@
 # C_HUB
 
 Hey there! This is a custom-designed USB C-Hub project made completely from scratch using EasyEDA. The idea behind this was to create a compact, multi-port USB hub which can be used with Type-C connectors for expanding the number of USB ports available on laptops or Raspberry Pi boards, which usually have limited USB slots. The project mainly includes USB switch ICs and a USB 2.0 hub controller (GL850G), which is the heart of the setup. I tried to keep the schematic clean and modular with proper grounding and bypass caps for each IC to reduce noise and improve stability. There are multiple USB A ports as output, and a single Type-C port as input, and I’ve used ESD protection diodes to avoid damage from surges.
-
-![Screenshot 2025-07-06 192308](https://github.com/user-attachments/assets/0f83a496-f528-4a3e-aac5-8acc9ad742e6)
+![image](https://github.com/user-attachments/assets/9b60938a-c91f-4123-8d70-b018217c66d9)
 
 
 ![image](https://github.com/user-attachments/assets/78b11d91-13f6-47e7-a67e-306d65a0e0a3)
